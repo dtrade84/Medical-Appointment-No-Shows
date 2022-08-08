@@ -1,4 +1,4 @@
-# Medical-Appointment-No-Shows
+# Medical Appointment No-Shows
 An analysis of medical appointment no-shows in Brazil.
 
 By Daniel Fernandez
